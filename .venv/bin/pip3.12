@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/ulisses/Python/Sistema de Finanças/venv/bin/python3" "$0" "$@"
+'''exec' "/home/ulisses/projetos/Sistema de finanças/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

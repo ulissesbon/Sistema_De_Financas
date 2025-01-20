@@ -1,0 +1,7 @@
+alembic/
+alembic*
+*.db
+
+*pycache*
+.venv/
+log.txt
